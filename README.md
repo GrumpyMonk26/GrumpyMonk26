@@ -24,7 +24,7 @@
 <div align='center'>
 <h3>I'm a Husband, Father, Designer and Developer</h3>
 
-<p>🎓 BSc Degree</p>
+<p>🎓 BSc Degree - Computing and IT</p>
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to collaborate with other developers</p>
 <p>🥅 2020 Goals: Contribute more to Open Source projects</p>
