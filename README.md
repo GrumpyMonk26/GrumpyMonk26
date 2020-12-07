@@ -1,6 +1,6 @@
 <div>
 <div class="banner">
-<img src="https://drive.google.com/file/d/11ZSHDOwUXQ7eopJnqEuPq-_dgxqiuN4L/view?usp=sharing" />
+<img src="https://raw.githubusercontent.com/GrumpyMonk26/grumpyMonk26/main/Github_Banner.png" />
 </div>
     <h1 align='center'> Hello... I'm Jason</h1>
     <p align='center'> Designer & Front End Web Developer</u></p>
