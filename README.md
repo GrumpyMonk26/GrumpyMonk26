@@ -1,6 +1,6 @@
 <div>
 <div class="banner">
-(https://user-images.githubusercontent.com/53913153/101400708-31cc8100-38c9-11eb-9819-a5cc10cd233c.png)
+![Github Banner](https://user-images.githubusercontent.com/53913153/101401254-f8484580-38c9-11eb-900d-74a1dc7a15e2.png)
 </div>
     <h1 align='center'> Hello... I'm Jason</h1>
     <p align='center'> Designer & Front End Web Developer</u></p>
