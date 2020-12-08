@@ -73,7 +73,7 @@
 
 ---
 
-<div align='center'>
+<div style="background-color:#4cbb17;" align='center'>
   <div align='center'>
   <div align='center'>
   <img alt="Jasons's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrumpyMonk26&show_icons=true&hide_border=true"/>
