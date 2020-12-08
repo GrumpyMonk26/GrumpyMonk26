@@ -1,6 +1,3 @@
-```{css}
-.hero-title{font-size: 32px;}
-```
 
 <div>
     <div class="banner">
