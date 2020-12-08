@@ -1,7 +1,7 @@
 <div>
     <div class="banner">
-        <h1 align='center' > Hello... I'm Jason</h1>
-    <p align='center'> Designer & Front End Web Developer</u></p>
+        <h1 align='center' style='font-size: 3rem' > Hello... I'm Jason</h1>
+<!--     <p align='center'> Designer & Front End Web Developer</u></p> -->
     <br>
             <img src="https://raw.githubusercontent.com/GrumpyMonk26/grumpyMonk26/main/Github_Banner.png" />
     </div>
@@ -27,7 +27,7 @@
 <!-- ABOUT:START -->
 
 <div align='center'>
-<h3>I'm a Husband, Father, Designer and Developer</h3>
+<h3>I'm a Husband, Father, Designer and Front-End Developer</h3>
 
 <p>🎓 BSc Degree - Computing and IT</p>
 <p>🌱 I’m currently learning everything 🤣</p>
