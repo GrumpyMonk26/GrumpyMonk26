@@ -1,10 +1,12 @@
 <div>
-
-    <h1 align='center' > Hello... I'm Jason</h1>
+    <div class="banner">
+        <h1 align='center' > Hello... I'm Jason</h1>
     <p align='center'> Designer & Front End Web Developer</u></p>
-        <div class="banner">
+    <br>
             <img src="https://raw.githubusercontent.com/GrumpyMonk26/grumpyMonk26/main/Github_Banner.png" />
-        </div>
+    </div>
+    
+        
   </br>
      
   <p align='center'>
