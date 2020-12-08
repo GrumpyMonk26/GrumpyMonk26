@@ -2,7 +2,7 @@
 <div class="banner">
 <img src="https://raw.githubusercontent.com/GrumpyMonk26/grumpyMonk26/main/Github_Banner.png" />
 </div>
-    <h1 align='center'> Hello... I'm Jason</h1>
+    <h1 align='center' > Hello... I'm Jason</h1>
     <p align='center'> Designer & Front End Web Developer</u></p>
     
   </br>
@@ -30,8 +30,8 @@
 <p>🎓 BSc Degree - Computing and IT</p>
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to collaborate with other developers</p>
-<p>🥅 2020 Goals: Contribute more to Open Source projects</p>
-<p>⚡ Fun fact: I love to game 🎮 </p>
+<p>🥅 2021 Goals: Contribute more to Open Source projects</p>
+<p>⚡ Fun fact: I drift RC cars </p>
 
 </div>
 <!-- ABOUT:END -->
