@@ -1,6 +1,6 @@
 <div>
     <div class="banner">
-        <h1 align='center' style='font-size: 3rem' > Hello... I'm Jason</h1>
+        <h1 align='center' style='font-size: 32px !important' > Hello... I'm Jason</h1>
 <!--     <p align='center'> Designer & Front End Web Developer</u></p> -->
     <br>
             <img src="https://raw.githubusercontent.com/GrumpyMonk26/grumpyMonk26/main/Github_Banner.png" />
