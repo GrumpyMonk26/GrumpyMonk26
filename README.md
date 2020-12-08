@@ -1,6 +1,10 @@
+```{css}
+.hero-title{font-size: 32px;}
+```
+
 <div>
     <div class="banner">
-        <h1 align='center'> Hello... I'm Jason</h1>
+        <h1 class='hero-title' align='center'> Hello... I'm Jason</h1>
 <!--     <p align='center'> Designer & Front End Web Developer</u></p> -->
     <br>
             <img src="https://raw.githubusercontent.com/GrumpyMonk26/grumpyMonk26/main/Github_Banner.png" />
