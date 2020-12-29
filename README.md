@@ -36,9 +36,8 @@
 <p>👯 I’m looking to collaborate with other developers</p>
 <p>🥅 2021 Goals: Contribute more to Open Source projects</p>
 <p>⚡ Fun fact: I drift RC cars </p>
-![](https://komarev.com/ghpvc/?username=GrumpyMonk26&color=brightgreen&style=flat-square)
-
 </div>
+![](https://komarev.com/ghpvc/?username=GrumpyMonk26&color=brightgreen&style=flat-square)
 <!-- ABOUT:END -->
 
 <br />
