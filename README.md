@@ -21,7 +21,7 @@
 
 [![Website](https://img.shields.io/website?label=jasonevans.dev&style=for-the-badge&url=https%3A%2F%2Fjasonevans.dev)](https://jasonevans.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Evans_webDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjasonevans.dev&screen_name=Evans_webDev)
-
+![](https://komarev.com/ghpvc/?username=GrumpyMonk26&color=brightgreen&style=flat-square)
 
 </div>
 </br>
@@ -37,7 +37,7 @@
 <p>🥅 2021 Goals: Contribute more to Open Source projects</p>
 <p>⚡ Fun fact: I drift RC cars </p>
 </div>
-![](https://komarev.com/ghpvc/?username=GrumpyMonk26&color=brightgreen&style=flat-square)
+
 <!-- ABOUT:END -->
 
 <br />
