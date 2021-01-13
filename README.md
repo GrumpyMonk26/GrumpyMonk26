@@ -80,7 +80,7 @@
 <details>
   <summary>GitHub Language Split</summary>
 
-![github language split](https://ghui.vercel. app/pie.png?username=GrumpyMonk26)
+![github language split](https://ghui.vercel. app/pie.png?username=https://github.com/GrumpyMonk26
 
 </details>
 
