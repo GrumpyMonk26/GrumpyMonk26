@@ -14,14 +14,6 @@
   <a href="https://jasonevans.dev"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/Evans_webDev"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/jason-evans-26a19a192/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-    
-    <details>
-  <summary>GitHub Language Split</summary>
-
-![github language split](https://ghui.vercel. app/pie.png?username=https://github.com/GrumpyMonk26
-
-</details>
-
    
 </div>
 
