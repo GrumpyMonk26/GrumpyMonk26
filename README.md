@@ -36,7 +36,7 @@
 <p>🎓 BSc Degree - Computing and IT</p>
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to collaborate with other developers</p>
-<p>🥅 2021 Goals: Contribute more to Open Source projects</p>
+<p>🥅 2022 Goals: Contribute more to Open Source projects</p>
 <p>⚡ Fun fact: I drift RC cars </p>
 </div>
 
